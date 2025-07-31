@@ -1,4 +1,3 @@
-# MNIST-
 # MNIST Handwritten Digit Classification
 
 ## Overview
